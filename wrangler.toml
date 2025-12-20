@@ -1,1 +1,10 @@
 main = "_worker.js"
+name = "am-cf-tunnel-sub"
+compatibility_date = "2025-12-20"
+
+workers_dev = false
+preview_urls = false
+
+[env.production.vars]
+HOST = "yuanyehuai.cn"
+UUID = "40cb7c17-6bff-4059-b58b-cbab62ec7947"

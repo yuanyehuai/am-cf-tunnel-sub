@@ -1,5 +1,5 @@
 main = "_worker.js"
-name = "am-cf-tunnel-sub-yuanye"
+name = "vless-cf"
 compatibility_date = "2025-12-20"
 
 workers_dev = false
